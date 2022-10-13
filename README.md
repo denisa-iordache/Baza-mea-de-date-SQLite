@@ -16,10 +16,10 @@ Sintaxa comenzilor disponibile:<br/>
 ![image](https://user-images.githubusercontent.com/74931542/195564349-b9225cc7-9778-4750-bb2e-02fb4d9d3520.png)
 ![image](https://user-images.githubusercontent.com/74931542/195564459-c8d9a833-2776-4e46-8928-267e04636d2e.png)
 <br/>
-### Creare tabela:<br/>
+### Creare tabelă:<br/>
 ![image](https://user-images.githubusercontent.com/74931542/195566128-df6b49b4-5a36-4d70-92ee-897470716f6b.png)
 <br/>
-### Afișare structura tabela:<br/>
+### Afișare structură tabelă:<br/>
 ![image](https://user-images.githubusercontent.com/74931542/195566298-86d65804-8817-444d-95f1-f17fd5340d47.png)
 <br/>
 ### Creare index:<br/>
