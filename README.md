@@ -1,14 +1,14 @@
 # Clona-SQLite-in-C-POO
-##Tehnologii folosite
+## Tehnologii folosite
 Aplicația a fost construită în limbajul C++, folosind ca și IDE, Visual Studio Community Edition.<br/>
 Pentru verificarea sintaxei comenzilor introduse de către utilizator am folosit regex.<br/>
-##Descriere proiect
+## Descriere proiect
 Proiectul a fost realizat în carul disciplinei de programare orientată obiect, într-o echipă de două persoane. Acesta a constat în crearea unei baze de date asemănătoare cu SQLite ca și limbaj.<br/>
 Practic, am realizat codul din spatele comenzilor pentru gestionarea unei baze de date, în interfață (consolă) utilizatorul putând 
 • crea tabele pe baza unor fișiere text, binare sau cv;
 • utiliza comenzi LMD: select, insert, update, delete;
 • utiliza comenzi LDD: create, display (structură), drop.<br/>
-##Capturi de ecran
+## Capturi de ecran
 ![image](https://user-images.githubusercontent.com/74931542/195564005-08c713a9-9ba2-46ce-b312-f2f75e9221c1.png)
 Sintaxa comenzilor disponibile
 ![image](https://user-images.githubusercontent.com/74931542/195564157-16f20ef9-581f-47a4-823f-5ad2a5f0e3d2.png)
