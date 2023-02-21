@@ -11,7 +11,7 @@ Practic, am realizat codul din spatele comenzilor pentru gestionarea unei baze d
 ## Capturi de ecran
 ![image](https://user-images.githubusercontent.com/74931542/195564005-08c713a9-9ba2-46ce-b312-f2f75e9221c1.png)
 <br/>
-Sintaxa comenzilor disponibile:<br/>
+### Sintaxa comenzilor disponibile:<br/>
 ![image](https://user-images.githubusercontent.com/74931542/195564157-16f20ef9-581f-47a4-823f-5ad2a5f0e3d2.png)
 ![image](https://user-images.githubusercontent.com/74931542/195564349-b9225cc7-9778-4750-bb2e-02fb4d9d3520.png)
 ![image](https://user-images.githubusercontent.com/74931542/195564459-c8d9a833-2776-4e46-8928-267e04636d2e.png)
