@@ -5,7 +5,7 @@ Pentru verificarea sintaxei comenzilor introduse de către utilizator am folosit
 ## Descriere proiect
 Proiectul a fost realizat în cadrul disciplinei de programare orientată obiect, într-o echipă de două persoane. Acesta a constat în crearea unei baze de date asemănătoare cu SQLite ca și limbaj.<br/>
 Practic, am realizat codul din spatele comenzilor pentru gestionarea unei baze de date, în interfață (consolă) utilizatorul putând: <br/>
-• crea tabele care vor fi salvate într-un fișier taxt;<br/>
+• crea tabele care vor fi salvate într-un fișier text;<br/>
 • utiliza comenzi LMD: select, insert, update, delete;<br/>
 • utiliza comenzi LDD: create, display (structură), drop.<br/>
 ## Capturi de ecran
