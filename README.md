@@ -1,6 +1,6 @@
 # Clona-SQLite-in-C-POO
 ## Tehnologii folosite
-Aplicația a fost construită în limbajul C++, folosind ca și IDE, Visual Studio Community Edition.<br/>
+Aplicația a fost construită în limbajul C++, folosind ca și IDE Visual Studio Community Edition.<br/>
 Pentru verificarea sintaxei comenzilor introduse de către utilizator am folosit regex.<br/>
 ## Descriere proiect
 Proiectul a fost realizat în carul disciplinei de programare orientată obiect, într-o echipă de două persoane. Acesta a constat în crearea unei baze de date asemănătoare cu SQLite ca și limbaj.<br/>
